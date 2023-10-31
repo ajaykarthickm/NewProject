@@ -1,0 +1,31 @@
+/* *{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+} */
+.img{
+    width: 650px;
+}
+
+.logo{
+    width:200px;
+    height: 60px;
+    
+}
+
+nav{
+    
+    font-size: 20px;
+    
+}
+
+
+.cities{
+    text-decoration: none;
+    color: black;
+}
+
+.bottom-img{
+    width: 650px;
+    position: relative;
+    left: 400px;
+}
